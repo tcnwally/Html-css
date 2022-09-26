@@ -1,0 +1,194 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "idroid" ;
+    src: url("fontes/idroid.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+img{
+    width: 100%;
+}
+header{
+     
+background-image: linear-gradient(to top, rgba(0, 0, 0, 0.746), green);
+color: white;
+text-shadow: 1px 1px 1px black;
+padding: 39px;
+margin: -15px;
+}
+ 
+#titulocab{
+
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+
+nav{
+ text-decoration: underline none;
+ color: white;
+
+} 
+
+nav > p{
+
+   
+
+    margin: opx;
+}
+
+nav > a:hover{
+
+ color: red;
+ text-decoration: underline;
+}
+
+nav > a{
+
+    text-decoration:none;
+    color: white;
+    margin: 10px;
+
+}
+.titulo{
+    text-align: center;
+    font-family: sans-serif;
+    color: #1c541c;
+
+}
+
+#subtitulo{
+
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif
+}
+
+
+#tamanhoh1{
+
+    font-size: 30px;
+    font-family: "idroid";
+    margin: 0px 0px 0px 20px;
+    text-align:justify;
+}
+
+.paragrafos{
+ 
+    font-family: "idroid";
+    background-image: linear-gradient(to right, lightgreen
+    , white);
+    color:#1c541c;
+
+
+}
+
+#quermais{
+
+
+        font-family: "idroid";
+        background-color: rgba(8, 187, 127, 0.711);
+        border-radius: 12px 12px 3px 0px;
+        margin: -20px -9px 13px -10px;
+        padding: 6px 10px 9px 1px;
+}
+
+#corh3{
+
+    font-family: "idroid";
+        
+}
+.p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: justify;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 2px 2px 2px;
+}
+body{
+
+background-color: aqua;
+
+color: #1c541c;
+}
+
+
+main{
+    background-color: white;
+   
+   width: auto;
+    
+}
+
+#video{
+
+    background-color: green;
+    padding: 37px 30px 32px 20px;
+    margin: 10px -18px 33px -18px;
+
+    }
+
+
+    .partebaixa{
+
+        background-color: aquamarine;
+        border-radius: 20px;
+        margin: 10px 10px 10px 10px;
+        padding: 10px 10px 10px 10px;
+    }
+
+section{
+
+
+}
+
+
+footer{
+
+    background-color: darkgreen;
+    margin: 8px -27px -14px -10px;
+    padding: -3px 15px 10px 10px;
+    height: 10px 10px 10px 10px;
+    width: 10px 10px 10px 10px;
+}
+
+
+footer > p{
+
+text-align: center;
+color: white;
+margin: 0px ;
+    
+}
+
+#quebra{
+    color: black;
+    color: black;
+    padding: 0px 0px 0px 0px;
+    margin: -125px 14px 8px 241px;
+    height: 0px 0px 0px 0px;
+    width: 0px 0px 0px 0px;
+
+
+   }
+
+
+   .p2{
+
+    margin: 0px 0px 35px -72px;
+    padding: 0px 0px 0px 0px;
+
+   }
+
+
+
+

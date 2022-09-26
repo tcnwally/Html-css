@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right
+    ,#52FACD,#38A8DB,#5A6BF2,#8C46DB,#8a3991);
+    
+}
+
+a {
+
+    color: rgb(0, 255, 242);
+    text-decoration: none;
+    text-shadow: 10px 10x 10px black;
+    
+}
+
+a:visited {
+ 
+
+    color: red;
+
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+
+a:active{
+
+    color: #8a3991;
+}
+
+h1{
+
+    text-align: center;
+    color: yellow;
+    background-color: #8a3991;
+}
+
+h1:hover{
+
+    color: #8a3991;
+    background-color: yellow;
+    
+}  
+
+/* CELETORES PERSONALIZADOS
+
+id = #
+class = .
+pseudo class = :
+clildren = >
+*/
+

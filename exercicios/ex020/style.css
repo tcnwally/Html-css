@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+/* todo ID em HTML   em CSS e #
+   todo class em HTML em CSS e . */
+
+   main{ 
+
+     background-color: rgb(255, 255, 255);
+     background-attachment: fixed;
+     border-radius: 8%;
+     
+
+   }
+
+body {
+
+background-color: rgb(99, 12, 133);
+font-family: Arial, Helvetica, sans-serif
+
+}
+
+#principal {
+
+text-align: center; background-color: black;
+
+}
+
+
+.basico {
+
+background-color: rgb(229, 14, 171);
+text-shadow: 1px 1px 1px black;
+
+}
+
+
+.intermediario {
+
+background-color: rgb(13, 108, 77);
+text-shadow: 1px 1px 1px black;
+
+}
+
+
+.avançado { 
+
+
+background-color: rgb(241, 138, 12);
+text-shadow: 1px 1px 1px black;
+
+}
+
+
+h1 {
+
+color: rgb(255, 234, 0);
+text-shadow: 1px 1px 1px black;
+
+}
+
+
+h2 {
+
+ color: rgb(255, 234, 0);
+ text-shadow: 1px 1px 1px black;
+
+}
