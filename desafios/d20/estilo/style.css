@@ -3,3 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+
+:root {
+    --fonte1 : Verdana , geneva , Tahoma , sans-serif ;
+    --fonte2 :  'Passion One'  ;
+    --fonte3 :  'Sriracha' ;
+}
+
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
