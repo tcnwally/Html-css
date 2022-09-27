@@ -17,3 +17,47 @@
     margin: 0px;
     padding: 0px;
 }
+
+header{
+        background-color: black;
+        padding: 4em;
+        
+}
+
+header > h1{
+    color: white;
+    text-align: center;
+    font-family: var(--fonte2);
+        font-size: 3em;
+
+
+
+
+}
+    
+
+header a:hover{
+
+    text-decoration: underline;
+}
+
+
+header a{
+
+    text-decoration: none;
+    color: white;
+        
+}
+
+header > p{
+
+    color: white;
+    text-align: center;
+    font-family: var(--fonte1);
+}
+
+
+body{
+
+    background 
+}
