@@ -69,7 +69,8 @@ a:hover{
 .imagem{
 
     color: white;
-    background-color: rgba(0, 0, 0, 0.575);
+    background-color: rgba(0, 0, 0, 0.623);
+  
 }
 
 .imagem > p{
@@ -78,6 +79,7 @@ a:hover{
     color: white;
  display: inline-block;
 padding: 5px;
+text-shadow: 1px 1px 1px black;
 }
 
 section{
@@ -88,7 +90,26 @@ section{
     padding: 30px;
     font-family: var(--fonte3);
     font-size: 4.5vw;
+    box-shadow: 6px 6px 13px 0pc rgba(0, 0, 0, 0.244);
 }
+
+#img01{
+background-image: url(../imagens/background001.jpg);
+
+background-position: center right;
+background-size: cover;
+background-attachment: fixed;
+}
+
+
+#img02{
+
+    background-image: url(../imagens/background002.jpg);
+    background-size: cover;
+background-attachment: fixed;
+
+}
+
 footer{
 
     background-color: black;
