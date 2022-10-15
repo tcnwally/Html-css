@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Exemplo De Formulário</h1>
+    <form action="cadastro.php" method="get" autocomplete="on">
+      <p>
+        <input type="submit" value="Enviar" />
+        <input type="reset" value="Limpar" />
+      </p>
+      <fieldset>
+        <legend>Esportes favoritos</legend>
+        <label for="ibas"
+          ><input type="checkbox" name="esbas" id="ibas" /> Basquete</label
+        >
+        <br />
+        <label for="ifut"
+          ><input type="checkbox" name="esfut" id="ifut" /> Futebol</label
+        >
+        <br />
+        <label for="ivol"
+          ><input type="checkbox" name="esvol" id="ivol" /> Volei</label
+        >
+        <br />
+        <label for="ihand"
+          ><input type="checkbox" name="eshand" id="ihand" /> Handbal</label
+        >
+        <br />
+      </fieldset>
+
+      <br>
+      <br>
+
+      <fieldset>
+        <legend>sexo</legend>
+
+        <label for="iman">
+        <input type="radio" name="sx" id="iman"> homen
+        </label>
+        <label for="imu">
+        <input type="radio" name="sx" id="imu"> Mulher
+        </label>
+        <label for="ipnd">
+        <input type="radio" name="sx" id="ipnd"> Prefiro nao dizer
+        </label>
+      </fieldset>
+    </form>
+  </body>
+</html>
