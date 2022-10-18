@@ -55,7 +55,7 @@ section {
 
     background-color: yellow;
     padding: 20px;
-    margin: auto;
+    
 }
 
 
@@ -94,7 +94,7 @@ section {
     background-color: white;
     height: 300px;
     width: 300px;
-    margin: 10px;
+    margin: auto;
 
 
 
@@ -108,9 +108,26 @@ section {
 
 }
 
+#bl
+{
+
+    background-color: rgb(255, 187, 0);
+    padding: 20px;
+    display: flex;
+}
+
+#d1{
+
+    background-color: whitesmoke;
+
+    box-shadow: 10px 10px 10px solid black;
+    padding: 40px;
+}
+
 footer {
 
     background-color: black;
     color: aliceblue;
     text-align: center;
 }
+
